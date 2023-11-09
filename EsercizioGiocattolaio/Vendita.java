@@ -26,4 +26,4 @@ public class Vendita {
     public int getQuantità() {
         return quantita;
     }
-}
+} "questo è il main"
